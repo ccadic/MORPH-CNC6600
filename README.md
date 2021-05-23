@@ -1,6 +1,7 @@
 # MORPH-CNC6600
 QueenBeePro Upgrade PCBOARD
 
+PCB available here: https://www.tindie.com/products/morpheans/morph-cnc6600-nema23-grbl-cnc-upgrade/
 
 This Upgrade PCB has been design to reduce the risk of bad wiring and insecure connection between all the parts of the CNC tool.  The CNC comes with very basic wiring instuctions and the original connectors may be fragile when you need to connect 2 or more wire in the same hole. 
 We designed the MORPH-CNC6600 board to simplify the job for beginners, to ease the attachments of the differents parts and to simplify the integration in a box without this strange spaghetti feeling.
